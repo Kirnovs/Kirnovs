@@ -10,7 +10,7 @@
 4) [Работа с базами данных сервиса](https://docs.google.com/document/d/1dsNrjLSIvDXc5D4_iYv5__eryEvxk3dxrQMATHCLXGg/edit?usp=sharing) **(Примеры SQL запросов для БД)**
 5) [Тестирование мобильного приложения](https://docs.google.com/document/d/1k_TO5jsScME6JRLeiN1Z9RA0nTm1WCl2ucOEVT5vHiM/edit?usp=sharing) **(Отчет о тестировании мобильного приложения)**
 6) [Тестирование API](https://docs.google.com/document/d/1ogNscD8llp9PGK_S8YAV42R5zkR2NYBRGj2OKZHsZZY/edit?usp=sharing) **(Отчет о тестировании API с инструментом Postman)**
-7) [Проектирование автотестов для регрессионного тестирования]([https://github.com/Kirnovs/Automation_sprint_novikov_kirill/blob/main/README.md](https://github.com/Kirnovs/Automation_sprint_novikov_kirill/blob/main/create_kit_name_kit_test.py) **(Основы автоматизации в PyCharm)**
+7) [Проектирование автотестов для регрессионного тестирования](https://github.com/Kirnovs/Automation_sprint_novikov_kirill/blob/main/create_kit_name_kit_test.py) **(Основы автоматизации в PyCharm)**
 8) [Дипломная работа: Тестирование веб-, мобильное приложение, API серсива](https://github.com/Kirnovs/yandex_samokat_novikov_12qa) **(Часть дипломной работы - автоматизация)**
 9) Полное тестирование приложений и подготовка отчета о тестировании **(Проведение тестирования в качестве тест-лида + оформление отчетов)** :\
 [Отчет о тестировании веб-приложения "Stellar Burgers"](https://docs.google.com/document/d/1IVidr5AbT7VfYRTKoPLeCThFjxg82_XZC9UPRBlXW-I/edit?usp=sharing)\
