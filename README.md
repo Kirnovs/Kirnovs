@@ -17,7 +17,7 @@ ___
 [Отчет о тестировании веб-приложения "Kittygram"](https://docs.google.com/document/d/1UA4kq4xSqOkXF5SGSqUw8ySyIwINli7Sl_XVX3s-v7c/edit?usp=sharing)\
 [Отчет о тестировании веб-приложения "Продуктовый помощник"](https://docs.google.com/document/d/1squ-YlVZCRylRTZQL4rwtemwFi1BhmrHzkB3FJaAu8E/edit?usp=sharing)
 
-10) [Исследовательское тестирование от заказчика](https://docs.google.com/document/d/1T5dzM-N1E2lBlcnl9sPUFaAUNdoFVYv1WaD4lmaci38/edit?usp=sharing) **(Командная работа с подробным отчетом о тестировании)**\
+10) [Исследовательское тестирование от заказчика](https://docs.google.com/document/d/1T5dzM-N1E2lBlcnl9sPUFaAUNdoFVYv1WaD4lmaci38/edit?usp=sharing) **(Командная работа с подробным отчетом о тестировании)**
 
 ![image.png](assets%2Fimage.png)
 
