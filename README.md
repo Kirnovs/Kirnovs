@@ -1,6 +1,6 @@
 # Портфолио QA Новиков Кирилл
 ___
-### Яндекс.Практикум ["Инжерер по тестированию Plus"](https://practicum.yandex.ru/qa-engineer/)
+### Яндекс.Практикум ["Инженер по тестированию Plus"](https://practicum.yandex.ru/qa-engineer/)
 ![sertificate.png](assets%2Fsertificate.png)
 ##### Проекты курса:
 
